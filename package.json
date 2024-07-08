@@ -1,0 +1,12 @@
+{
+  "name": "joinbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BackdevHong/Join-Check-Bot.git",
+  "author": "backdevhong <ghddls0704@kakao.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
